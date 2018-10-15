@@ -1,6 +1,11 @@
 body{background-color: red;}
-h1{color: gray; font-family: courier new; letter-spacing: 5px;}
-p{font-style: italics;border-color: blue; outline-style: dotted; outline-color: black;}
+h1{color: gray;}
+h1{font-family: courier new;}
+h1{letter-spacing: 5px;}
+p{font-style: italics;}
+p{border-color: blue;}
+p{outline-style: dotted;}
+p{outline-color: black;}
 table{border-style: grooved; border-color: purple;background-color: gold;}
 tr,td{border-color: purple;}
 input[type=text]: focus{background-color: lightblue;}
