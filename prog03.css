@@ -2,3 +2,4 @@ body{background-color: red;}
 h1{color: gray;}
 table{border-style: grooved; border-color: purple;background-color: gold;}
 td{border-color: purple;}
+input[type=text]: focus{background-color: lightblue;}
