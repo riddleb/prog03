@@ -2,12 +2,15 @@ body{background-color: red;}
 h1{color: gray;}
 h1{font-family: courier new;}
 h1{letter-spacing: 5px;}
+h1{text-align: center;}
 p{font-style: italics;}
 p{outline-style: dotted;}
 p{outline-color: black;}
+p{text-align: center;}
 table{border-style: grooved;}
 table{border-color: orange;}
 table{background-color: gold;}
-tr,td{border-color: purple;}
-input[type=text]: focus{background-color: green;}
-fieldset{text-align: center;}
+table{width: 60%; margin-left: 20%; margin-right: 20%;}
+td{border-style: solid; border-color: purple;}
+
+
